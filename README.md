@@ -70,6 +70,7 @@ If you use this code or models in your scientific work, please cite the followin
 
 ### Aknowledgement:
 The whole framework is based on the
+[BreaCR](https://github.com/xinwangxinwang/BreaCR),
 [POEs](https://github.com/Li-Wanhua/POEs),
 [Mean-Variance Loss](https://openaccess.thecvf.com/content_cvpr_2018/html/Pan_Mean-Variance_Loss_for_CVPR_2018_paper.html),
 and [voxelmorph](https://github.com/voxelmorph/voxelmorph).
